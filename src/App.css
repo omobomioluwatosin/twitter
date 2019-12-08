@@ -34,17 +34,19 @@ div.network {
 }
 .list1{
   padding-left: 30%;
-  margin-top: 42%;
+  margin-top: 40%;
   color: white;
   
 }
 .list2{
   padding-left: 30%;
+  margin-top: 5%;
   color: white;
   ;
 }
 .list3{
   padding-left: 30%;
+  margin-top: 5%;
   color: white;
    
 }
@@ -107,10 +109,10 @@ text-align: center;
 }
 .sign{
   margin-top: 8%;
-  margin-left: 5%;
+  margin-left: 2%;
  margin-bottom: 16px;
   padding: 2%;
-  width: 50%;
+  width: 70%;
   -webkit-appearance: button;
   cursor: pointer;
   text-align: center;
@@ -124,9 +126,9 @@ text-align: center;
  background-color: blue; 
 }
 .in{
-  margin-left: 5%;
+  margin-left: 2%;
   padding: 2%;
-  width: 50%;
+  width: 70%;
   -webkit-appearance: button;
   cursor: pointer;
   text-align: center;
