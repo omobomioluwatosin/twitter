@@ -21,7 +21,7 @@ function App() {
 
 <button className='log'> Log in </button>
 
-<a class="forgot" href="/account/begin_password_reset" rel="noopener">Forgot password?</a>
+<a className="forgot" href="/account/begin_password_reset" rel="noopener">Forgot password?</a>
 
 <div className='logo'>
 </div>

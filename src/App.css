@@ -95,6 +95,9 @@ color: black;
   color: #e6ecf0;
   font-weight: bold;
 }
+.forgot:hover{
+  background-color: lightblue;
+}
 .button{
   margin-top: 60%;
   box-sizing: border-box;
